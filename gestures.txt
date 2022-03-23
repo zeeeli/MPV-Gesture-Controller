@@ -1,0 +1,5 @@
+Pause
+Play
+Vol Up
+Vol Down
+Quit
