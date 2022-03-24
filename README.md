@@ -1,6 +1,9 @@
 # MPV-Gesture-Controller
 Use hand gestures as MPV keybinds.
 
+![Hand gestures used](/images/gestures_BnW.png)
+
+
 ## Files Explained
 `hand_detection.py` - Detects hands and stores hand position and handedness in dictionary
 
