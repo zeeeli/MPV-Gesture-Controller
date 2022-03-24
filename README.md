@@ -1,13 +1,6 @@
 # MPV-Gesture-Controller
 Use hand gestures as MPV keybinds.
 
-Hand gestures implemented:
-  - Pause
-  - Play
-  - Vol Up
-  - Vol Down
-  - Quit
-
 ## Files Explained
 `hand_detection.py` - Detects hands and stores hand position and handedness in dictionary
 
@@ -20,11 +13,16 @@ Hand gestures implemented:
 `mpv_gestures.py` - Interfaces with MPV video player using recognized gestures inputted from camera
 
 ## Dependencies
+### Libraries
 - `MediaPipe`
 - `TensorFlow`
 - `OpenCV`
 - `numpy`
 - [`python-mpv`](https://github.com/jaseg/python-mpv/)
+
+### Linux Packages
+- `libmpv-dev`
+- `mpv`
 
 
 
