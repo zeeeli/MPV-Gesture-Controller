@@ -1,4 +1,7 @@
+### *Project Intended For My Personal Learning (Not Maintained)*
+
 # MPV-Gesture-Controller
+
 Use hand gestures as MPV keybinds.
 
 ![Hand gestures used](/images/gestures_BnW.png)
@@ -25,8 +28,10 @@ Use hand gestures as MPV keybinds.
 
 ### Linux Packages
 - `libmpv-dev`
-- `mpv`
+- [`mpv`](https://github.com/mpv-player/mpv/) (Youtube streams work best with >0.32 releases)
 
+## Usage
+Run `mpv_gestures.py` with either a path to a video file OR a Youtube link as an argument
 
 
 
