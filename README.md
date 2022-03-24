@@ -31,7 +31,7 @@ Use hand gestures as MPV keybinds.
 - [`mpv`](https://github.com/mpv-player/mpv/) (Youtube streams work best with >0.32 releases)
 
 ## Usage
-Run `mpv_gestures.py` with either a path to a video file OR a Youtube link as an argument
+Run `mpv_gestures.py` in Git clone destination with either a path to a video file OR a Youtube link as an argument
 
 
 
